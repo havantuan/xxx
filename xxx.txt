@@ -7,5 +7,9 @@ vua add thang Trung Tran
 
 Hoc xong Git di an com nhe doi vkl
 
+
 day laf nhanh cua trung
+
+
+Ghep du lieu tu nhanh master
 
