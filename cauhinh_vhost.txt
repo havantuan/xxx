@@ -1,0 +1,18 @@
+<VirtualHost *:80>
+    DocumentRoot "C:/xampp/htdocs/hotel-frontend/public"
+    ServerName hotel-frontend.dev
+</VirtualHost>
+<VirtualHost *:80>
+    DocumentRoot "C:/xampp/htdocs/web-backend/public"
+    ServerName campp.dev
+    ServerAlias admin.campp.dev api.campp.dev union.campp.dev supplier.campp.dev banking.campp.dev web.campp.dev
+</VirtualHost>
+127.0.0.1 hotel-frontend.dev
+127.0.0.1 campp.dev
+127.0.0.1 admin.campp.dev
+127.0.0.1 supplier.campp.dev
+127.0.0.1 union.campp.dev
+127.0.0.1 banking.campp.dev
+127.0.0.1 web.campp.dev
+127.0.0.1 api.campp.dev
+
